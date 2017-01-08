@@ -20,3 +20,4 @@ print ('Her birthstone is ' + birth_stone + '.')
 
 print(first_name + ' is ' + str(age) + ' years old now, but she will be ' + str(next_age) + ' in ' + birth_month  + '.' 'Her birthstone is ' + birth_stone + '.') 
 #How do I get the sentence that starts :"Her birthstone is.." to start one space after the period of the preceding sentence? I tried several things, but no go.
+# how do you distinguish between a ' in she'll from the double quotes? Do you need to put quotes around the quote for a contraction?
